@@ -1,7 +1,7 @@
 ## phattrienungdungvoimanguonmo  
 # baitap01_PTUDTTBDD  
 # Phần A: Đăng ký tên miền và cấu hình Cloudflare  
-Giao diện đăg=ng ký thành công  
+Giao diện đăng ký thành công  
 <img width="1920" height="1080" alt="image" src="https://github.com/user-  attachments/assets/53a62303-0e05-4824-b32d-56cc822ac817" />  
 
 Cập nhật DNS  
