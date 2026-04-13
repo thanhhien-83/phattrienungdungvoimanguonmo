@@ -20,13 +20,13 @@
 <img width="1919" height="1041" alt="image" src="https://github.com/user-attachments/assets/82cc2ceb-4135-44d5-9ccd-8529f80201dc" />
 - file index.html  
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/d573a2e4-75b3-4d91-af81-aa05ce3d2135" />
-
+- Tạo file điều hướng Nginx  
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/bf79eabf-b68e-4601-8c55-b14ce1aa0307" />
-
+- Tạo file tổng chỉ huy Docker Compose  
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/c6d832c6-3c6e-4e4f-a5b6-0c9c05f562c6" />
-- giao diện web tĩnh (Nginx)
+- giao diện web tĩnh (Nginx)  
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/bbce66ef-8cf8-4528-82bf-d933d4e27a1a" />
 
-- cấu hình Tường lửa (Firewall) trên server Ubuntu để mở các "cổng" cho phép dữ liệu đi ra đi vào.
+- cấu hình Tường lửa (Firewall) trên server Ubuntu để mở các "cổng" cho phép dữ liệu đi ra đi vào.  
 <img width="1695" height="1042" alt="image" src="https://github.com/user-attachments/assets/9b199518-8a78-4732-95a3-fd15062a662c" />
 
